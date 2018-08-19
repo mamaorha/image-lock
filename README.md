@@ -5,10 +5,10 @@ sometimes you have a nice picture that you wish to keep, but for some reason (ah
 this is exactly why i created image-lock.
 
 # unlocked
-# <img src="src/docs/images/image-lock-unlocked.jpg" width="366" height="183">
+# <img src="src/docs/images/image-lock-unlocked.jpg" height="294" width="440" >
 
 # locked
-# <img src="src/docs/images/image-lock-locked.pngl" width="366" height="183">
+# <img src="src/docs/images/image-lock-locked.pngl" height="294" width="440" >
 
 # image-lock
-# <img src="src/docs/images/tool-example.png" width="243" height="430">
+# <img src="src/docs/images/tool-example.png" height="645" width="365" >
