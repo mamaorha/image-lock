@@ -11,4 +11,4 @@ this is exactly why i created image-lock.
 # <img src="src/docs/images/image-lock-locked.pngl" height="294" width="440" >
 
 # image-lock
-# <img src="src/docs/images/tool-example.png" height="645" width="365" >
+# <img src="src/docs/images/tool-example.png" height="645" width="730" >
